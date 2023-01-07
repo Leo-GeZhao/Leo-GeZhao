@@ -4,6 +4,6 @@
 
 ### You can find my information here:
 
-- [Porfolio <img src="./Assets/Portfolio.png">](https://portfolio-leozhao.herokuapp.com/)
-- [Linkedin](https://www.linkedin.com/in/leogezhao/)
-- [Email](ge.leo.zhao@gmail.com)
+- [<img src="./Assets/Portfolio.png" width="30"/>](https://portfolio-leozhao.herokuapp.com/) Find my Portfolio website
+- [<img src="./Assets/Linkdein.png" width="30"/>](https://www.linkedin.com/in/leogezhao/) Connect me on Linkdein
+- [<img src="./Assets/Email.png" width="30"/>](mailto:ge.leo.zhao@gmail.com) Contact me at email
